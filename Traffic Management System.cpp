@@ -10,7 +10,6 @@ struct Vehicle
     string owner;
     string type;
 };
-
 struct Area
 {
     string name;
