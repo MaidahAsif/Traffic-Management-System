@@ -1,5 +1,5 @@
 # 🚦 Smart Traffic Management System  
-### Semester 1 – Programming Fundamentals Project
+### Semester 1 – Computer Programming Project
 
 ---
 
