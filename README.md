@@ -38,33 +38,33 @@ This system demonstrates the **practical application of fundamental C++ concepts
 
 ## 🚗 System Features
 
-### 1️⃣ Vehicle Registration
+### 1️. Vehicle Registration
 - Automatically generates a unique registration number
 - Stores vehicle owner name and vehicle type (Car/Bike)
 
-### 2️⃣ Display Registered Vehicles
+### 2️. Display Registered Vehicles
 - Shows all registered vehicles with details
 
-### 3️⃣ Traffic Status Monitoring
+### 3️. Traffic Status Monitoring
 - Simulates live traffic in different areas
 - Displays vehicle count per area
 
-### 4️⃣ Smart Signal Control
+### 4️. Smart Signal Control
 - Adjusts green signal timing based on traffic density
 - More vehicles → longer green time
 
-### 5️⃣ Emergency Vehicle Detection
+### 5️. Emergency Vehicle Detection
 - Detects emergency vehicles (Ambulance, Fire Brigade, Police)
 - Gives priority green signal to the emergency route
 
-### 6️⃣ Signal Status Display
+### 6️. Signal Status Display
 - Shows current signal color, green time, and vehicle count
 
-### 7️⃣ E-Challan Generation
+### 7️. E-Challan Generation
 - Generates electronic challans for traffic violations
 - Stores challan ID, violation type, and fine amount
 
-### 8️⃣ Challan Inquiry System
+### 8️. Challan Inquiry System
 - Allows users to check challans using their name
 
 ## 🎓 Learning Outcomes
