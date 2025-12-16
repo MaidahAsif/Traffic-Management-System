@@ -5,7 +5,7 @@
 
 ## 📘 Project Overview
 
-The **Smart Traffic Management System** is a **console-based C++ application** developed as a **Semester 1 project** for the course **Programming Fundamentals**.
+The **Smart Traffic Management System** is a **console-based C++ application** developed as a **Semester 1 project** for the course **Computer Programming**.
 
 The project simulates a basic traffic management system used in smart cities, focusing on:
 - Vehicle registration
