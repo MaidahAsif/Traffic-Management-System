@@ -1,7 +1,5 @@
 # 🚦 Smart Traffic Management System  
-### Semester 1 – Computer Programming Project
-
----
+### Semester 1 - Computer Programming Project
 
 ## 📘 Project Overview
 
@@ -16,8 +14,6 @@ The project simulates a basic traffic management system used in smart cities, fo
 
 This system demonstrates the **practical application of fundamental C++ concepts**.
 
----
-
 ## 🎯 Objectives of the Project
 
 - To understand the use of **structures in C++**
@@ -25,8 +21,6 @@ This system demonstrates the **practical application of fundamental C++ concepts
 - To implement **real-world logic** using programming fundamentals
 - To simulate a **smart traffic control system**
 - To improve **problem-solving and logical thinking skills**
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -41,8 +35,6 @@ This system demonstrates the **practical application of fundamental C++ concepts
 - Loops
 - Random number generation
 - Formatted output
-
----
 
 ## 🚗 System Features
 
@@ -75,8 +67,6 @@ This system demonstrates the **practical application of fundamental C++ concepts
 ### 8️⃣ Challan Inquiry System
 - Allows users to check challans using their name
 
----
-
 ## 🎓 Learning Outcomes
 
 After completing this project, I learned:
@@ -85,4 +75,3 @@ After completing this project, I learned:
 - How to apply **programming concepts to real-world problems**
 - How to write **clean and modular C++ code**
 
----
